@@ -27,15 +27,18 @@ Feel free to reach out to me for any collaboration, questions, or just to say hi
 
 Here are some of the projects I am working on or have completed:
 
-- **[Project 1](#)**: Brief description of project 1.
-- **[Project 2](#)**: Brief description of project 2.
-- **[Project 3](#)**: Brief description of project 3.
+- **Data Analytics with R**: This project involves analyzing the employability of ENSAK students using RStudio. I utilized various data analytics techniques to process and visualize data, providing insights into the employment trends and outcomes for graduates of ENSAK.
+  
+- **CRUD Application with Python and Streamlit**: This project is a web application that performs CRUD (Create, Read, Update, Delete) operations on a database managed with phpMyAdmin. The application is built using Python and the Streamlit library, allowing users to easily interact with and manage their data through a user-friendly interface.
+
+- **Car Rental System with Java**: This project is a Java-based application designed to manage car rentals. It allows users to rent cars, return them, and manage rental records. The system includes features for tracking available cars, processing rental transactions, and maintaining customer information.
 
 Thank you for visiting my GitHub profile. Let's connect and create something amazing together!
 
 ---
 
 *Yassine Bouhouch*
+
 
 <!---
 kamigami09/kamigami09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
